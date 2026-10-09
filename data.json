@@ -1,0 +1,246 @@
+{
+  "restoran": "McDonald's",
+  "jamlanma_soni": 30,
+  "menyu": [
+    {
+      "id": 1,
+      "nomi": "Big Mac",
+      "kategoriya": "Burgerlar",
+      "narxi_usd": 5.99,
+      "kaloriya": 550,
+      "mavjud": true
+    },
+    {
+      "id": 2,
+      "nomi": "Quarter Pounder with Cheese",
+      "kategoriya": "Burgerlar",
+      "narxi_usd": 6.39,
+      "kaloriya": 520,
+      "mavjud": true
+    },
+    {
+      "id": 3,
+      "nomi": "Double Quarter Pounder with Cheese",
+      "kategoriya": "Burgerlar",
+      "narxi_usd": 7.49,
+      "kaloriya": 740,
+      "mavjud": true
+    },
+    {
+      "id": 4,
+      "nomi": "McDouble",
+      "kategoriya": "Burgerlar",
+      "narxi_usd": 3.19,
+      "kaloriya": 400,
+      "mavjud": true
+    },
+    {
+      "id": 5,
+      "nomi": "Cheeseburger",
+      "kategoriya": "Burgerlar",
+      "narxi_usd": 2.79,
+      "kaloriya": 300,
+      "mavjud": true
+    },
+    {
+      "id": 6,
+      "nomi": "Hamburger",
+      "kategoriya": "Burgerlar",
+      "narxi_usd": 2.49,
+      "kaloriya": 250,
+      "mavjud": true
+    },
+    {
+      "id": 7,
+      "nomi": "McCrispy",
+      "kategoriya": "Tovuqli taomlar",
+      "narxi_usd": 5.39,
+      "kaloriya": 470,
+      "mavjud": true
+    },
+    {
+      "id": 8,
+      "nomi": "Spicy McCrispy",
+      "kategoriya": "Tovuqli taomlar",
+      "narxi_usd": 5.69,
+      "kaloriya": 530,
+      "mavjud": true
+    },
+    {
+      "id": 9,
+      "nomi": "Deluxe McCrispy",
+      "kategoriya": "Tovuqli taomlar",
+      "narxi_usd": 6.19,
+      "kaloriya": 530,
+      "mavjud": true
+    },
+    {
+      "id": 10,
+      "nomi": "Chicken McNuggets (10 dona)",
+      "kategoriya": "Tovuqli taomlar",
+      "narxi_usd": 5.89,
+      "kaloriya": 410,
+      "mavjud": true
+    },
+    {
+      "id": 11,
+      "nomi": "Chicken McNuggets (20 dona)",
+      "kategoriya": "Tovuqli taomlar",
+      "narxi_usd": 9.99,
+      "kaloriya": 830,
+      "mavjud": true
+    },
+    {
+      "id": 12,
+      "nomi": "Filet-O-Fish",
+      "kategoriya": "Dengiz mahsulotlari",
+      "narxi_usd": 5.19,
+      "kaloriya": 390,
+      "mavjud": true
+    },
+    {
+      "id": 13,
+      "nomi": "Katta Fri kartoshkasi",
+      "kategoriya": "Sneklar va kartoshka",
+      "narxi_usd": 4.19,
+      "kaloriya": 480,
+      "mavjud": true
+    },
+    {
+      "id": 14,
+      "nomi": "O'rta Fri kartoshkasi",
+      "kategoriya": "Sneklar va kartoshka",
+      "narxi_usd": 3.59,
+      "kaloriya": 320,
+      "mavjud": true
+    },
+    {
+      "id": 15,
+      "nomi": "Kichik Fri kartoshkasi",
+      "kategoriya": "Sneklar va kartoshka",
+      "narxi_usd": 2.39,
+      "kaloriya": 230,
+      "mavjud": true
+    },
+    {
+      "id": 16,
+      "nomi": "Egg McMuffin",
+      "kategoriya": "Nonushta",
+      "narxi_usd": 4.59,
+      "kaloriya": 310,
+      "mavjud": true
+    },
+    {
+      "id": 17,
+      "nomi": "Sausage McMuffin",
+      "kategoriya": "Nonushta",
+      "narxi_usd": 2.39,
+      "kaloriya": 400,
+      "mavjud": true
+    },
+    {
+      "id": 18,
+      "nomi": "Sausage McMuffin with Egg",
+      "kategoriya": "Nonushta",
+      "narxi_usd": 4.79,
+      "kaloriya": 480,
+      "mavjud": true
+    },
+    {
+      "id": 19,
+      "nomi": "Bacon, Egg & Cheese Biscuit",
+      "kategoriya": "Nonushta",
+      "narxi_usd": 4.89,
+      "kaloriya": 460,
+      "mavjud": true
+    },
+    {
+      "id": 20,
+      "nomi": "Hash Browns",
+      "kategoriya": "Nonushta",
+      "narxi_usd": 2.19,
+      "kaloriya": 140,
+      "mavjud": true
+    },
+    {
+      "id": 21,
+      "nomi": "Hotcakes (Pankeyklar)",
+      "kategoriya": "Nonushta",
+      "narxi_usd": 4.19,
+      "kaloriya": 580,
+      "mavjud": true
+    },
+    {
+      "id": 22,
+      "nomi": "McFlurry with Oreo Cookies",
+      "kategoriya": "Shirinliklar",
+      "narxi_usd": 4.39,
+      "kaloriya": 510,
+      "mavjud": true
+    },
+    {
+      "id": 23,
+      "nomi": "McFlurry with M&M'S",
+      "kategoriya": "Shirinliklar",
+      "narxi_usd": 4.39,
+      "kaloriya": 640,
+      "mavjud": true
+    },
+    {
+      "id": 24,
+      "nomi": "Issiq Olmali Pirog",
+      "kategoriya": "Shirinliklar",
+      "narxi_usd": 1.99,
+      "kaloriya": 230,
+      "mavjud": true
+    },
+    {
+      "id": 25,
+      "nomi": "Vanilli Morozhenoye (Rojok)",
+      "kategoriya": "Shirinliklar",
+      "narxi_usd": 1.79,
+      "kaloriya": 200,
+      "mavjud": true
+    },
+    {
+      "id": 26,
+      "nomi": "Coca-Cola (O'rta)",
+      "kategoriya": "Ichimliklar",
+      "narxi_usd": 2.29,
+      "kaloriya": 210,
+      "mavjud": true
+    },
+    {
+      "id": 27,
+      "nomi": "Sprite (O'rta)",
+      "kategoriya": "Ichimliklar",
+      "narxi_usd": 2.29,
+      "kaloriya": 200,
+      "mavjud": true
+    },
+    {
+      "id": 28,
+      "nomi": "McCafé Iced Coffee",
+      "kategoriya": "Kofe va ichimliklar",
+      "narxi_usd": 2.99,
+      "kaloriya": 180,
+      "mavjud": true
+    },
+    {
+      "id": 29,
+      "nomi": "McCafé Caramel Frappé",
+      "kategoriya": "Kofe va ichimliklar",
+      "narxi_usd": 4.19,
+      "kaloriya": 420,
+      "mavjud": true
+    },
+    {
+      "id": 30,
+      "nomi": "Shokoladli Milksheyk",
+      "kategoriya": "Ichimliklar",
+      "narxi_usd": 3.89,
+      "kaloriya": 520,
+      "mavjud": true
+    }
+  ]
+}
